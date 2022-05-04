@@ -37,19 +37,23 @@ body {
   font-size: 15px;
 }
 
-
 #mobile-image-div {
- text-align: center;
+  text-align: center;
 }
 
 #mobile-image {
   max-width: 70%;
   height: auto;
-  margin-top:-90px;
+  margin-top: -90px;
 }
 
 #mobile-image-shadow {
   max-width: 70%;
   height: auto;
-  margin-top:-90px; 
+  margin-top: -90px;
+}
+
+.faq-texts:hover {
+  color: orange;
+  cursor: pointer;
 }

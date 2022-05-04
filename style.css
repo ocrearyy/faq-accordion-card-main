@@ -1,5 +1,8 @@
 body {
   font-family: 'Poppins', sans-serif;
+  background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 #faq-section {
@@ -27,4 +30,26 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+}
+
+.fa-angle-down {
+  color: orange;
+  font-size: 15px;
+}
+
+
+#mobile-image-div {
+ text-align: center;
+}
+
+#mobile-image {
+  max-width: 70%;
+  height: auto;
+  margin-top:-90px;
+}
+
+#mobile-image-shadow {
+  max-width: 70%;
+  height: auto;
+  margin-top:-90px; 
 }

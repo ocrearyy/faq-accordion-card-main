@@ -6,3 +6,4 @@ function result() {
 
 // Arrow click
 document.querySelector('.fa-angle-down').addEventListener('click', result);
+

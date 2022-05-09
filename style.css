@@ -58,3 +58,12 @@ body {
   color: orange;
   cursor: pointer;
 }
+
+.bold {
+  font-weight: bold;
+  color: red;
+}
+
+.light {
+  font-weight: normal;
+}

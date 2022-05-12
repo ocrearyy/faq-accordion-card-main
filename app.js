@@ -39,7 +39,7 @@ function result4() {
   const toggleAble = document.querySelector('.d');
   const boldText = document.querySelector('.light4');
   const answer4 = document.querySelector('#answer4');
-
+  
   if (toggleAble.id === 'down-arrow4') {
     toggleAble.classList.toggle('fa-angle-up');
     boldText.style.fontWeight = 'bold';

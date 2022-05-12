@@ -67,3 +67,9 @@ body {
 .light {
   font-weight: normal;
 }
+
+.answers {
+  font-size: 12px;
+  text-align: left;
+  padding-right: 40px;
+}

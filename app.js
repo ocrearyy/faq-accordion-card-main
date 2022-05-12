@@ -2,50 +2,60 @@
 function result1() {
   const toggleAble = document.querySelector('.a');
   const boldText = document.querySelector('.light1');
+  const answer1 = document.querySelector('#answer1');
 
   if (toggleAble.id === 'down-arrow1') {
     toggleAble.classList.toggle('fa-angle-up');
     boldText.style.fontWeight = 'bold';
+    answer1.textContent = 'You can invite up to 2 additional users on the Free plan.You can invite up to 2 additional users on the Free plan.'
   }
-}
+} 
 
 function result2() {
   const toggleAble = document.querySelector('.b');
   const boldText = document.querySelector('.light2');
+  const answer2 = document.querySelector('#answer2');
 
   if (toggleAble.id === 'down-arrow2') {
     toggleAble.classList.toggle('fa-angle-up');
     boldText.style.fontWeight = 'bold';
+    answer2.textContent = 'No more than 2GB. All files in your account must fit your allotted storage space.'
   }
 }
 
 function result3() {
   const toggleAble = document.querySelector('.c');
   const boldText = document.querySelector('.light3');
+  const answer3 = document.querySelector('#answer3');
 
   if (toggleAble.id === 'down-arrow3') {
     toggleAble.classList.toggle('fa-angle-up');
     boldText.style.fontWeight = 'bold';
-  }
+    answer3.textContent = 'Click “Forgot password” from the login page or “Change password” from your profile page. A reset link will be emailed to you.'
+  } 
 }
 
 function result4() {
   const toggleAble = document.querySelector('.d');
   const boldText = document.querySelector('.light4');
+  const answer4 = document.querySelector('#answer4');
 
   if (toggleAble.id === 'down-arrow4') {
     toggleAble.classList.toggle('fa-angle-up');
     boldText.style.fontWeight = 'bold';
+    answer4.textContent = 'Yes! Send us a message and we’ll process your request no questions asked.'
   }
 }
 
 function result5() {
   const toggleAble = document.querySelector('.e');
   const boldText = document.querySelector('.light5');
+  const answer5 = document.querySelector('#answer5');
 
   if (toggleAble.id === 'down-arrow5') {
     toggleAble.classList.toggle('fa-angle-up');
     boldText.style.fontWeight = 'bold';
+    answer5.textContent = 'Chat and email support is available 24/7. Phone lines are open during normal business hours.'
   }
 }
 

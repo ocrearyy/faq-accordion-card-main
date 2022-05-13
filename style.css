@@ -75,6 +75,6 @@ body {
   display: none;
 }
 
-#answer1 {
-  font-size: 12px;
+.fa-solid:hover {
+  cursor: pointer; 
 }

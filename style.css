@@ -72,4 +72,9 @@ body {
   font-size: 12px;
   text-align: left;
   padding-right: 40px;
+  display: none;
+}
+
+#answer1 {
+  font-size: 12px;
 }

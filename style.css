@@ -58,3 +58,23 @@ body {
   color: orange;
   cursor: pointer;
 }
+
+.bold {
+  font-weight: bold;
+  color: red;
+}
+
+.light {
+  font-weight: normal;
+}
+
+.answers {
+  font-size: 12px;
+  text-align: left;
+  padding-right: 40px;
+  display: none;
+}
+
+.fa-solid:hover {
+  cursor: pointer;
+}

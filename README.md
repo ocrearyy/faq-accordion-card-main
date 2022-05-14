@@ -30,8 +30,8 @@ This is a FAQ accordion card that allows the users to:
 
 To get a local copy up and running follow these simple example steps.
 
-1. git clone git@github.com:oshanedesign/interactive-rating-component.git
-2. Cd into interactive-rating-component
+1. git clone git@github.com:oshanedesign/faq-accordion-card-main.git
+2. Cd into faq-accordion-card
 3. Run npm start to get project running locally
 
 ## Authors

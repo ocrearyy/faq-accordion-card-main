@@ -9,6 +9,8 @@ This is a FAQ accordion card that allows the users to:
 
 
 # Screenshots
+![e66](https://user-images.githubusercontent.com/40554384/168447117-1a76bd73-dafa-4baf-bc1e-62b110712df8.PNG)
+
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
 ### Links
